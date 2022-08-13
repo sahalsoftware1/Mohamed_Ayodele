@@ -1,0 +1,27 @@
+body {
+    margin-top: 60px;
+    background-color: grey;
+  }
+  .text-center{
+    text-align: center;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    display: block;
+    font-size: 2em;
+    margin-bottom: 0;
+  }
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+.thumbnail {
+    margin: 15px 0 5px 0;
+}
+caption text-center {
+    display: block;
+}
